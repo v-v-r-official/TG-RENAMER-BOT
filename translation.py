@@ -66,6 +66,8 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
+**👨🏻‍💻 Developers:** [❤Our Team](https://t.me/joinchat/QqhUiIn5_ao1ODk9)
+
 **📮 Channel:** [BOT UPDATES](https://t.me/VKPROJECTS)
 
 **👥 Group:** [BOT SUPPOTER](https://t.me/VKP_BOTS)"""
